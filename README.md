@@ -1,14 +1,10 @@
-- 👋 Hi, I’m John Thomas
-- 👀 I’m interested in Machine Learning
-<!---
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- --->
+# Hi there, I'm John Thomas! 👋
 
-<!---
-john-thomas-ml/john-thomas-ml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Machine Learning Enthusiast** | **Data Explorer** | **Open-Source Contributor**
+
+🔭 Currently diving into **ML projects**
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=john-thomas-ml&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=john-thomas-ml&theme=apprentice&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=john-thomas-ml&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
