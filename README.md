@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Your friendly neighbourhood Machine Learning Engineer 🤖</h3>
+<h3 align="center">Your friendly neighbourhood Machine Learning Engineer 🤖</h3>
 
 ###
 
