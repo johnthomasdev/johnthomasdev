@@ -1,10 +1,55 @@
-<h1 align="center">Hi 👋, I'm John Thomas</h1>
-<h3 align="center">A Machine Learning Engineer from India</h3>
+<br clear="both">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=john-thomas-ml&label=Profile%20views&color=0e75b6&style=flat" alt="john-thomas-ml" /> </p>
+<h1 align="center">Hello World 🙋, I'm John Thomas</h1>
 
-🔭 Currently diving into **ML projects**
+###
 
-![](https://github-readme-stats.vercel.app/api?username=john-thomas-ml&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=john-thomas-ml&theme=apprentice&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=john-thomas-ml&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br clear="both">
+
+<h3 align="center">Your friendly neighbourhood Machine Learning Engineer 🤖</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=john-thomas-ml&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=john-thomas-ml&locale=en&mode=daily&theme=apprentice&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=john-thomas-ml&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/john-thomas-ml/john-thomas-ml/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/john-thomas-ml/john-thomas-ml/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/john-thomas-ml/john-thomas-ml/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/john-thomas-ml/count.svg?"  />
+</div>
+
+###
