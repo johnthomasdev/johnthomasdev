@@ -10,6 +10,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=johnthomasdev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=johnthomasdev&locale=en&mode=daily&theme=apprentice&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnthomasdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false" height="150" alt="languages graph"  />
+
+  ![Stats](https://github-contributor-stats.vercel.app/api?username=johnthomasdev&limit=5&hide=B,B%2B&hide_contributor_rank=false&order_by=contributions&combine_all_yearly_contributions=true&theme=apprentice)
 </div>
 
 ###
